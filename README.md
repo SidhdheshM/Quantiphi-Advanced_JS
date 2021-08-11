@@ -13,6 +13,6 @@ For Task 1 and Task 3 Output: node Task1.js and node Task2.js on terminal
 
 Task 2 output on browser (index.html).
 
-#Assignment 2
+# Assignment 2
 
 Output of both the tasks on node terminal.
