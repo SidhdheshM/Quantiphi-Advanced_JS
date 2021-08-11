@@ -1,6 +1,6 @@
 # Quantiphi-Advanced_JS
 
-Run:  git clone https://github.com/SidhdheshM/Quantiphi-Advanced_JS/tree/main
+Run:  git clone https://github.com/SidhdheshM/Quantiphi-Advanced_JS.git
 
 Install cross-fetch using:  npm i cross-fetch
 
